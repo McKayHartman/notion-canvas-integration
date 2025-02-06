@@ -1,0 +1,25 @@
+# Libraries
+import json
+
+# open fetched asignment data json file
+with open('fetched_assignment_data.json', 'r') as file:
+	new_data = json.load(file)
+
+# Initalize an array to hold the updated data
+updated_data = []
+
+# Iterate over the raw data from the fetched json file 
+
+for assignment in new_data:
+	# put into object "extracted data"
+	extracted_data = {
+	    'id': assignment.get('id'),
+	    'name': assignment.get('name'),
+	    'due_at': assignment.get('due_at'),
+	    'points_possible': assignment.get('points_possible')
+	}
+	
+	# append it to the updated data
+	updated_data.append(extracted_data)
+print("Updated JSON data")
+	
