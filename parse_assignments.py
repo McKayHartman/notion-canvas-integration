@@ -27,6 +27,9 @@ for assignment in new_data:
 	
 	# append it to the updated data
 	updated_data.append(extracted_data)
-print("Updated JSON data")
-print(json.dumps(updated_data, indent=4))
-	
+# write it to a file
+with open('updated_assignment_data.json', 'w') as output:
+    json.dump(updated_data, output, indent=4)
+
+# print message
+print("Data written to 'updated_assignment_data.json'")
