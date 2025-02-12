@@ -1,0 +1,632 @@
+[
+    {
+        "assignment_id": 744577,
+        "course_id": "35851",
+        "name": "1 Reading Climate & Biomes",
+        "due_at": "2025-01-17T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35851/assignments/744577"
+    },
+    {
+        "assignment_id": 744578,
+        "course_id": "35851",
+        "name": "2 Reading Population growth and species interactions",
+        "due_at": "2025-01-22T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35851/assignments/744578"
+    },
+    {
+        "assignment_id": 744579,
+        "course_id": "35851",
+        "name": "3 Reading Communities and ecosystems",
+        "due_at": "2025-01-29T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35851/assignments/744579"
+    },
+    {
+        "assignment_id": 744580,
+        "course_id": "35851",
+        "name": "4 Reading Age of humans",
+        "due_at": "2025-02-05T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35851/assignments/744580"
+    },
+    {
+        "assignment_id": 744581,
+        "course_id": "35851",
+        "name": "5 Reading Species classification",
+        "due_at": "2025-02-12T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35851/assignments/744581"
+    },
+    {
+        "assignment_id": 744582,
+        "course_id": "35851",
+        "name": "6 Reading Evolution: Populations",
+        "due_at": "2025-02-19T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35851/assignments/744582"
+    },
+    {
+        "assignment_id": 783011,
+        "course_id": "35851",
+        "name": "1 Post-lecture questions",
+        "due_at": "2025-01-23T06:59:00Z",
+        "points_possible": 5,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35851/assignments/783011"
+    },
+    {
+        "assignment_id": 792765,
+        "course_id": "35851",
+        "name": "2 Post-lecture questions",
+        "due_at": "2025-01-30T06:59:00Z",
+        "points_possible": 5,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35851/assignments/792765"
+    },
+    {
+        "assignment_id": 800697,
+        "course_id": "35851",
+        "name": "3 Post-lecture questions",
+        "due_at": "2025-02-03T06:59:00Z",
+        "points_possible": 5,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35851/assignments/800697"
+    },
+    {
+        "assignment_id": 800699,
+        "course_id": "35851",
+        "name": "4 Post-lecture questions",
+        "due_at": "2025-02-10T06:59:00Z",
+        "points_possible": 5,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35851/assignments/800699"
+    },
+    {
+        "assignment_id": 768277,
+        "course_id": "35935",
+        "name": "Week 12 In-Lab Part 2: Virtual Invertebrate Dissection",
+        "due_at": "2025-04-24T06:59:00Z",
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35935/assignments/768277"
+    },
+    {
+        "assignment_id": 768278,
+        "course_id": "35935",
+        "name": "Week 6 Post-Lab: Natural Selection and Hardy- Weinberg Virtual Lab",
+        "due_at": "2025-03-06T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35935/assignments/768278"
+    },
+    {
+        "assignment_id": 710554,
+        "course_id": "35935",
+        "name": "Week 2 Pre-Lab: Elephant Census",
+        "due_at": "2025-01-23T06:59:59Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35935/assignments/710554"
+    },
+    {
+        "assignment_id": 710557,
+        "course_id": "35935",
+        "name": "Week 3 Pre-Lab: Feed the Dingo ",
+        "due_at": "2025-01-30T06:59:59Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35935/assignments/710557"
+    },
+    {
+        "assignment_id": 710533,
+        "course_id": "35935",
+        "name": "Week 4 Pre-Lab Quiz: Taxonomy ",
+        "due_at": "2025-02-06T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35935/assignments/710533"
+    },
+    {
+        "assignment_id": 710532,
+        "course_id": "35935",
+        "name": "Week 5 Pre-Lab Quiz: Transitional Fossils ",
+        "due_at": "2025-02-13T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35935/assignments/710532"
+    },
+    {
+        "assignment_id": 710564,
+        "course_id": "35935",
+        "name": "Week 6 Pre-Lab Quiz: Forces of Evolution and Hardy-Weinberg Equilibrium ",
+        "due_at": "2025-02-20T06:59:59Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35935/assignments/710564"
+    },
+    {
+        "assignment_id": 710566,
+        "course_id": "35935",
+        "name": "Week 7 Pre-Lab: Intro to Speciation ",
+        "due_at": "2025-02-27T06:59:59Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35935/assignments/710566"
+    },
+    {
+        "assignment_id": 710571,
+        "course_id": "35935",
+        "name": "Week 8 Pre-Lab: Evolution of Eukaryotes and Multicellularity ",
+        "due_at": "2025-03-20T06:59:59Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35935/assignments/710571"
+    },
+    {
+        "assignment_id": 710535,
+        "course_id": "35935",
+        "name": "Week 9 Pre-Lab Quiz: Seedless Plants",
+        "due_at": "2025-03-20T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35935/assignments/710535"
+    },
+    {
+        "assignment_id": 717200,
+        "course_id": "35850",
+        "name": "0. Assignment: Getting Going",
+        "due_at": "2025-01-18T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35850/assignments/717200"
+    },
+    {
+        "assignment_id": 717210,
+        "course_id": "35850",
+        "name": "1. GitHub - Part 1 - Create GitHub Account and Configure SSH",
+        "due_at": "2025-02-08T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35850/assignments/717210"
+    },
+    {
+        "assignment_id": 717211,
+        "course_id": "35850",
+        "name": "1. GitHub - Part 2 - Basic Workflow",
+        "due_at": "2025-02-08T06:59:00Z",
+        "points_possible": 24,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35850/assignments/717211"
+    },
+    {
+        "assignment_id": 717212,
+        "course_id": "35850",
+        "name": "1. GitHub - Part 3 - Contributing to a Code Base",
+        "due_at": "2025-02-08T06:59:00Z",
+        "points_possible": 28,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35850/assignments/717212"
+    },
+    {
+        "assignment_id": 717204,
+        "course_id": "35850",
+        "name": "2. Assignment: Build Tools - Web Time Server",
+        "due_at": "2025-03-01T06:59:00Z",
+        "points_possible": 20,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35850/assignments/717204"
+    },
+    {
+        "assignment_id": 717203,
+        "course_id": "35850",
+        "name": "2. Assignment: Build Tools - Build & Install Diction",
+        "due_at": "2025-03-01T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35850/assignments/717203"
+    },
+    {
+        "assignment_id": 717202,
+        "course_id": "35850",
+        "name": "2. Assignment: Build Tools - A magical Makefile",
+        "due_at": "2025-03-01T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35850/assignments/717202"
+    },
+    {
+        "assignment_id": 717207,
+        "course_id": "35850",
+        "name": "3. Assignment: Setting up an AWS EC2 Instance",
+        "due_at": "2025-03-22T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35850/assignments/717207"
+    },
+    {
+        "assignment_id": 717205,
+        "course_id": "35850",
+        "name": "3. Assignment: Running a Web Server in the Cloud",
+        "due_at": "2025-03-22T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35850/assignments/717205"
+    },
+    {
+        "assignment_id": 717206,
+        "course_id": "35850",
+        "name": "3. Assignment: Running the Web Time Server in the Cloud",
+        "due_at": "2025-03-22T06:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35850/assignments/717206"
+    },
+    {
+        "assignment_id": 740865,
+        "course_id": "35859",
+        "name": "0.4.E | Welcome Discussion",
+        "due_at": "2025-01-30T06:59:00Z",
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35859/assignments/740865"
+    },
+    {
+        "assignment_id": 740871,
+        "course_id": "35859",
+        "name": "M2.1 | Data Dictionary Homework",
+        "due_at": "2025-01-30T06:59:00Z",
+        "points_possible": 100,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35859/assignments/740871"
+    },
+    {
+        "assignment_id": 740872,
+        "course_id": "35859",
+        "name": "M2.2.1 | Conceptual Modeling: The Garage Shop Homework",
+        "due_at": "2025-02-06T06:59:00Z",
+        "points_possible": 50,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35859/assignments/740872"
+    },
+    {
+        "assignment_id": 740873,
+        "course_id": "35859",
+        "name": "M2.2.2 | Conceptual Modeling: The Dental Clinic Homework",
+        "due_at": "2025-02-06T06:59:00Z",
+        "points_possible": 50,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35859/assignments/740873"
+    },
+    {
+        "assignment_id": 740874,
+        "course_id": "35859",
+        "name": "M2.E | Conceptual Modeling: The Library Homework",
+        "due_at": "2025-02-13T06:59:00Z",
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35859/assignments/740874"
+    },
+    {
+        "assignment_id": 740875,
+        "course_id": "35859",
+        "name": "M3.1 | Relational Modeling: The Garage Shop Homework",
+        "due_at": "2025-02-13T06:59:00Z",
+        "points_possible": 50,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35859/assignments/740875"
+    },
+    {
+        "assignment_id": 740879,
+        "course_id": "35859",
+        "name": "M3.E | Relational Modeling: The Dental Clinic Homework",
+        "due_at": "2025-02-20T06:59:00Z",
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35859/assignments/740879"
+    },
+    {
+        "assignment_id": 740876,
+        "course_id": "35859",
+        "name": "M3.1 | Relational Modeling: The Library Homework",
+        "due_at": "2025-02-13T06:59:00Z",
+        "points_possible": 50,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35859/assignments/740876"
+    },
+    {
+        "assignment_id": 740877,
+        "course_id": "35859",
+        "name": "M3.2 | Normalization: Blog Post",
+        "due_at": "2025-02-20T06:59:00Z",
+        "points_possible": 50,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35859/assignments/740877"
+    },
+    {
+        "assignment_id": 740878,
+        "course_id": "35859",
+        "name": "M3.2 | Normalization: Zoo",
+        "due_at": "2025-02-20T06:59:00Z",
+        "points_possible": 50,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35859/assignments/740878"
+    },
+    {
+        "assignment_id": 751417,
+        "course_id": "35867",
+        "name": "Quiz: Syllabus",
+        "due_at": "2025-01-20T05:59:00Z",
+        "points_possible": 11,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35867/assignments/751417"
+    },
+    {
+        "assignment_id": 751413,
+        "course_id": "35867",
+        "name": "Quiz: Motivation",
+        "due_at": "2025-01-20T05:59:00Z",
+        "points_possible": 17,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35867/assignments/751413"
+    },
+    {
+        "assignment_id": 751414,
+        "course_id": "35867",
+        "name": "Quiz: Inception",
+        "due_at": "2025-01-27T05:59:00Z",
+        "points_possible": 9,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35867/assignments/751414"
+    },
+    {
+        "assignment_id": 751410,
+        "course_id": "35867",
+        "name": "Quiz: Tools",
+        "due_at": "2025-02-03T05:59:00Z",
+        "points_possible": 20,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35867/assignments/751410"
+    },
+    {
+        "assignment_id": 751412,
+        "course_id": "35867",
+        "name": "Quiz: Elicitation",
+        "due_at": "2025-02-10T05:59:00Z",
+        "points_possible": 29,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35867/assignments/751412"
+    },
+    {
+        "assignment_id": 751411,
+        "course_id": "35867",
+        "name": "Quiz: Agile Software Development",
+        "due_at": "2025-02-17T05:59:00Z",
+        "points_possible": 20,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35867/assignments/751411"
+    },
+    {
+        "assignment_id": 751415,
+        "course_id": "35867",
+        "name": "Quiz: Software Design",
+        "due_at": "2025-03-10T04:59:00Z",
+        "points_possible": 20,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35867/assignments/751415"
+    },
+    {
+        "assignment_id": 751416,
+        "course_id": "35867",
+        "name": "Quiz: Code Quality",
+        "due_at": "2025-03-24T04:59:00Z",
+        "points_possible": 9,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35867/assignments/751416"
+    },
+    {
+        "assignment_id": 751408,
+        "course_id": "35867",
+        "name": "Quiz: Testing and Quality Assurance",
+        "due_at": "2025-03-31T04:59:00Z",
+        "points_possible": 9,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35867/assignments/751408"
+    },
+    {
+        "assignment_id": 751429,
+        "course_id": "35867",
+        "name": "Quiz: Course Evaluation",
+        "due_at": "2025-04-21T04:59:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/35867/assignments/751429"
+    },
+    {
+        "assignment_id": 788974,
+        "course_id": "34795",
+        "name": "Extra Credit",
+        "due_at": null,
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/34795/assignments/788974"
+    },
+    {
+        "assignment_id": 796561,
+        "course_id": "34795",
+        "name": "Roll Call Attendance",
+        "due_at": null,
+        "points_possible": 100,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/34795/assignments/796561"
+    },
+    {
+        "assignment_id": 805686,
+        "course_id": "34795",
+        "name": "Artificial Intelligence",
+        "due_at": "2025-02-10T06:59:59Z",
+        "points_possible": 20,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/34795/assignments/805686"
+    },
+    {
+        "assignment_id": 807534,
+        "course_id": "34795",
+        "name": "TP and AB Rough Draft",
+        "due_at": "2025-02-06T15:00:00Z",
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/34795/assignments/807534"
+    },
+    {
+        "assignment_id": 685468,
+        "course_id": "34795",
+        "name": "Emails",
+        "due_at": "2025-01-20T06:59:59Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/34795/assignments/685468"
+    },
+    {
+        "assignment_id": 685469,
+        "course_id": "34795",
+        "name": "Reading Notes: Ch. 6, 7 and 21",
+        "due_at": "2025-01-31T06:59:59Z",
+        "points_possible": 30,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/34795/assignments/685469"
+    },
+    {
+        "assignment_id": 685470,
+        "course_id": "34795",
+        "name": "Reflection Pt. 1",
+        "due_at": "2025-02-11T15:00:00Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/34795/assignments/685470"
+    },
+    {
+        "assignment_id": 685473,
+        "course_id": "34795",
+        "name": "My Future",
+        "due_at": "2025-01-20T06:59:59Z",
+        "points_possible": 10,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/34795/assignments/685473"
+    },
+    {
+        "assignment_id": 685474,
+        "course_id": "34795",
+        "name": "Semester Long",
+        "due_at": "2025-05-09T06:59:59Z",
+        "points_possible": 100,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/34795/assignments/685474"
+    },
+    {
+        "assignment_id": 806964,
+        "course_id": "34795",
+        "name": "TP and AB Peer Review",
+        "due_at": "2025-02-08T06:59:00Z",
+        "points_possible": 50,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/34795/assignments/806964"
+    },
+    {
+        "assignment_id": 780421,
+        "course_id": "36223",
+        "name": "Mi Familia - ",
+        "due_at": null,
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/36223/assignments/780421"
+    },
+    {
+        "assignment_id": 780424,
+        "course_id": "36223",
+        "name": "The scavenger hunt assignment",
+        "due_at": null,
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/36223/assignments/780424"
+    },
+    {
+        "assignment_id": 808050,
+        "course_id": "36223",
+        "name": "Campus Events - 200 pts per event",
+        "due_at": null,
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/36223/assignments/808050"
+    },
+    {
+        "assignment_id": 780406,
+        "course_id": "36223",
+        "name": "Introductory Survey - 1000 points",
+        "due_at": null,
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/36223/assignments/780406"
+    },
+    {
+        "assignment_id": 780419,
+        "course_id": "36223",
+        "name": "First meeting with Dr. Mireles - 500",
+        "due_at": null,
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/36223/assignments/780419"
+    },
+    {
+        "assignment_id": 780422,
+        "course_id": "36223",
+        "name": "Mtg wth Dr. Mireles - 100",
+        "due_at": null,
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/36223/assignments/780422"
+    },
+    {
+        "assignment_id": 780420,
+        "course_id": "36223",
+        "name": "Learning Your Classmates Names - 2000 pts",
+        "due_at": null,
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/36223/assignments/780420"
+    },
+    {
+        "assignment_id": 780423,
+        "course_id": "36223",
+        "name": "Professor Points",
+        "due_at": null,
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/36223/assignments/780423"
+    },
+    {
+        "assignment_id": 780418,
+        "course_id": "36223",
+        "name": "Final Quiz Bowl Score",
+        "due_at": null,
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/36223/assignments/780418"
+    },
+    {
+        "assignment_id": 780425,
+        "course_id": "36223",
+        "name": "Week 1 Attendance ",
+        "due_at": null,
+        "points_possible": 0,
+        "score": null,
+        "url": "https://canvas.nau.edu/courses/36223/assignments/780425"
+    }
+]
